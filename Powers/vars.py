@@ -76,8 +76,8 @@ class Development:
     GENIUS_API_TOKEN = "X-ke3wy7wtBF1zlX1NZZF8zPSu7redVunzR2_gkCs6fnQBTchX472V-YYERdFi9-"
     RMBG_API = "mHgMmpSvffqE8Ap5mUeDrqWt"
     PREFIX_HANDLER = ["!", "/", "$" ,"."]
-    SUPPORT_GROUP = ""
-    SUPPORT_CHANNEL = ""
+    SUPPORT_GROUP = "Midexoz_Support"
+    SUPPORT_CHANNEL = "MidexozBotUpdates"
     VERSION = "VERSION"
     TIME_ZONE = 'Asia/Kolkata'
     BDB_URI = "mongodb+srv://ryumasgod:ryumasgod@cluster0.ojfkovp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
