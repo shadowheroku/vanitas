@@ -42,19 +42,13 @@ async def gen_start_kb(q: Message or CallbackQuery):
                     "➕ Add me to a chat!",
                     f"https://t.me/{Config.BOT_USERNAME}?startgroup=new",
                     "url",
-                ),
-                ("Bot Staffs 🚔", "give_bot_staffs"),
+                )
             ],
             [
                 ("📚 Commands & Help", "commands"),
                 ("Bot info 👾", "bot_curr_info"),
             ],
             [
-                (
-                    "🗃️ Source Code",
-                    "https://t.me/+Mn2HIM6pmWUyZTBl",
-                    "url",
-                ),
                 (
                     "Owner ❤️",
                     OWNER_ID,
@@ -64,7 +58,7 @@ async def gen_start_kb(q: Message or CallbackQuery):
             [
                 (
                     "❗️ Essential",
-                    "https://t.me/+W9Qb1Iti7FQ3MDc1",
+                    "https://t.me/Midexoz_Support",
                     "url",
                 ),
                 (
