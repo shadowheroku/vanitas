@@ -62,22 +62,22 @@ class Development:
 
     # Fill in these vars if you want to use Traditional method of deploying
     LOGGER = True
-    BOT_TOKEN = "7847667702:AAF9rw9I-pf7gJsNxDlFOhKD_S23tg3Fs6I"
-    API_ID = 23212132  # Your APP_ID from Telegram
-    API_HASH = "1c17efa86bdef8f806ed70e81b473c20"  # Your APP_HASH from Telegram
-    OWNER_ID = 8429156335  # Your telegram user id defult to mine
+    BOT_TOKEN = "7016265817:AAGWywtJ_8C1L5Vnb1YUU2g8Y4EqcN5K6Bc"
+    API_ID = 29348525  # Your APP_ID from Telegram
+    API_HASH = "d815eb5b92d9ba6e35c45fa4a85db492"  # Your APP_HASH from Telegram
+    OWNER_ID = 6138142369  # Your telegram user id defult to mine
     MESSAGE_DUMP = -1002800777153  # Your Private Group ID for logs if not passed your owner id will be msg dump
-    DEV_USERS = [8473262774]
-    SUDO_USERS = [7732844436]
+    DEV_USERS = [8429156335]
+    SUDO_USERS = [5846676239]
     WHITELIST_USERS = []
-    DB_URI = "mongodb+srv://ryumasgod:ryumasgod@cluster0.ojfkovp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"  # Your mongo DB URI
-    DB_NAME = "MONICDB"  # Your DB name
+    DB_URI = "mongodb+srv://Alisha:Alisha123@cluster0.yqcpftw.mongodb.net/?retryWrites=true&w=majority"  # Your mongo DB URI
+    DB_NAME = "VanitasDB"  # Your DB name
     NO_LOAD = []
     GENIUS_API_TOKEN = "X-ke3wy7wtBF1zlX1NZZF8zPSu7redVunzR2_gkCs6fnQBTchX472V-YYERdFi9-"
     RMBG_API = "mHgMmpSvffqE8Ap5mUeDrqWt"
-    PREFIX_HANDLER = ["!", "/", "$"]
-    SUPPORT_GROUP = "ShadowsHQ"
-    SUPPORT_CHANNEL = "ShadowBotsHQ"
+    PREFIX_HANDLER = ["!", "/", "$" ,"."]
+    SUPPORT_GROUP = "Midexoz_Support"
+    SUPPORT_CHANNEL = "MidexozBotUpdates"
     VERSION = "VERSION"
     TIME_ZONE = 'Asia/Kolkata'
     BDB_URI = "mongodb+srv://ryumasgod:ryumasgod@cluster0.ojfkovp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
