@@ -43,7 +43,6 @@ class Gojo(Client):
                 BotCommand(
                     "start", "To check weather the bot is alive or not"),
                 BotCommand("help", "To get help menu"),
-                BotCommand("donate", "To buy me a coffee"),
                 BotCommand("bug", "To report bugs")
             ]
         )
